@@ -1,3 +1,4 @@
+// Mini-Aladdin Financial Analysis SPA (React + TailwindCSS + Recharts) // Only dpcaus@gmail.com can log in
 import { useState } from 'react';
 import { Card, CardContent } from './components/ui/card';
 import { Button } from './components/ui/button';
